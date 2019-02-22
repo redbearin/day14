@@ -38,3 +38,8 @@ In cart.html
 -constructor function
     -like the one from busmall labs for organization
 -Deploy repo to see how it looks as you work on it
+
+=============How app.js works================
+-feed in product name and quantity
+    -add item to cart
+    
